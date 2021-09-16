@@ -1,8 +1,10 @@
 @extends('layouts.master')
 
 @section('content')
-<!-- Content Header (Page header) -->
-<section class="content-header">
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
       <h1>
         Inicio
         <small>Panel de Control</small>
@@ -78,7 +80,7 @@
           <!-- small box -->
           <div class="small-box bg-green">
             <div class="inner">
-              <h3>53<sup style="font-size: 20px">%</sup></h3>
+              <h3>53</h3>
 
               <h3>Terrenos</h3>
             </div>
@@ -119,7 +121,7 @@
               <h5 class="widget-user-desc">Agente Inmobiliario</h5>
             </div>
             <div class="widget-user-image">
-              <img class="img-circle" src="{{ asset('frontend') }}/../dist/img/user3-128x128.jpg" alt="User Avatar">
+              <img class="img-circle" src="{{ asset('frontend') }}/dist/img/user3-128x128.jpg" alt="User Avatar">
             </div>
             <div class="box-footer">
               <div class="row">
@@ -150,7 +152,7 @@
               <h5 class="widget-user-desc">Agente Inmobiliario</h5>
             </div>
             <div class="widget-user-image">
-              <img class="img-circle" src="{{ asset('frontend') }}/../dist/img/user1-128x128.jpg" alt="User Avatar">
+              <img class="img-circle" src="{{ asset('frontend') }}/dist/img/user1-128x128.jpg" alt="User Avatar">
             </div>
             <div class="box-footer">
               <div class="row">
@@ -181,7 +183,7 @@
               <h5 class="widget-user-desc">Agente Inmobiliario</h5>
             </div>
             <div class="widget-user-image">
-              <img class="img-circle" src="{{ asset('frontend') }}/../dist/img/user8-128x128.jpg" alt="User Avatar">
+              <img class="img-circle" src="{{ asset('frontend') }}/dist/img/user8-128x128.jpg" alt="User Avatar">
             </div>
             <div class="box-footer">
               <div class="row">
