@@ -61,15 +61,6 @@
       </div>
     </form>
 
-    <div class="social-auth-links text-center">
-      <p>- O -</p>
-      <a href="#" class="btn btn-block btn-social btn-facebook btn-flat"><i class="fa fa-facebook"></i> Ingrese usando
-        Facebook</a>
-      <a href="#" class="btn btn-block btn-social btn-google btn-flat"><i class="fa fa-google-plus"></i> Ingrese usando
-        Google+</a>
-    </div>
-    <!-- /.social-auth-links -->
-
     <a href="#">Olvidé mi contraseña</a><br>
     <a href="register" class="text-center">Registrar Nueva Cuenta</a>
 

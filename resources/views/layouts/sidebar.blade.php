@@ -28,23 +28,37 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="pages/charts/chartjs.html"><i class="fa fa-circle-o"></i> Lotes</a></li>
-            <li><a href="pages/charts/morris.html"><i class="fa fa-circle-o"></i> Terrenos</a></li>
+            <li><a href="lotes"><i class="fa fa-circle-o"></i> Lotes</a></li>
+            <li><a href="pages/charts/morris.html"><i class="fa fa-circle-o"></i> Viviendas</a></li>
             <li><a href="pages/charts/flot.html"><i class="fa fa-circle-o"></i> Condominios</a></li>
           </ul>
         </li>
         <li class="treeview">
           <a href="#">
             <i class="fa fa-laptop"></i>
-            <span>Inmuebles Adquiridos</span>
+            <span>Cotizaciones</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="pages/UI/general.html"><i class="fa fa-circle-o"></i> Lotes</a></li>
-            <li><a href="pages/UI/icons.html"><i class="fa fa-circle-o"></i> Terrenos</a></li>
-            <li><a href="pages/UI/buttons.html"><i class="fa fa-circle-o"></i> Condominios</a></li>
+            <li><a href="pages/UI/general.html"><i class="fa fa-circle-o"></i> Ventas</a></li>
+            <li><a href="pages/UI/icons.html"><i class="fa fa-circle-o"></i> Créditos</a></li>
+            <li><a href="pages/UI/buttons.html"><i class="fa fa-circle-o"></i> Cobros</a></li>
+          </ul>
+        </li>
+        <li class="treeview">
+          <a href="#">
+            <i class="fa fa-laptop"></i>
+            <span>Administrar Usuarios</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="pages/UI/general.html"><i class="fa fa-circle-o"></i> Clientes</a></li>
+            <li><a href="pages/UI/icons.html"><i class="fa fa-circle-o"></i> Agentes</a></li>
+            <li><a href="pages/UI/buttons.html"><i class="fa fa-circle-o"></i> Administradores</a></li>
           </ul>
         </li>
         <li class="treeview">

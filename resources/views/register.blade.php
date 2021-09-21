@@ -69,14 +69,6 @@
       </div>
     </form>
 
-    <div class="social-auth-links text-center">
-      <p>- O -</p>
-      <a href="#" class="btn btn-block btn-social btn-facebook btn-flat"><i class="fa fa-facebook"></i> Regístrate usando 
-        Facebook</a>
-      <a href="#" class="btn btn-block btn-social btn-google btn-flat"><i class="fa fa-google-plus"></i> Regístrate usando
-        Google+</a>
-    </div>
-
     <a href="login" class="text-center">Ya tengo una cuenta</a>
   </div>
   <!-- /.form-box -->

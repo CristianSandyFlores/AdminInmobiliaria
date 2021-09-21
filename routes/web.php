@@ -20,6 +20,9 @@ Route::get('/', function () {
 Route::view('/register', 'register');
 Route::view('/login', 'login');
 Route::view('/home', 'home');
+Route::view('/lotes', 'lotes');
+Route::view('/mostrarLote', 'mostrarLote');
+Route::view('/descripcionLote', 'descripcionLote');
 
 
 
