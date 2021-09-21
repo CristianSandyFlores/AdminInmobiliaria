@@ -17,7 +17,7 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="item active">
-                    <img src="https://cdn.pixabay.com/photo/2015/12/06/09/15/maple-1079235__340.jpg" alt="First slide">
+                    <img src="{{ asset('frontend') }}/dist/img/carousel/lote1.jpg" alt="First slide">
 
                     <div class="carousel-caption">
                       Primer Imagen
