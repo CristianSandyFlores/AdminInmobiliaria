@@ -4,7 +4,9 @@
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>TH</b>365</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>TuHogar365</b></span>
+      <span class="logo-lg">
+        <img src="{{ asset('frontend') }}/dist/img/logo.svg" width="106px" height="122px" alt="insertar SVG con la etiqueta image">
+      </span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
