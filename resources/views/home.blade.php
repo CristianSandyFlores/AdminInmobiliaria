@@ -4,7 +4,7 @@
 
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
-    <section class="content-header">
+    <!-- <section class="content-header">
       <h1>
         Inicio
         <small>Panel de Control</small>
@@ -13,7 +13,7 @@
         <li><a href="#"><i class="fa fa-dashboard"></i> Inicio</a></li>
         <li class="active">Panel de Control</li>
       </ol>
-    </section>
+    </section> -->
 
     <!-- Main content -->
     <section class="content">
@@ -123,12 +123,12 @@
           <!-- Widget: user widget style 1 -->
           <div class="box box-widget widget-user">
             <!-- Add the bg color to the header using any of the bg-* classes -->
-            <div class="widget-user-header bg-yellow" style="background: url('../dist/img/photo1.png') center center;">
+            <div class="widget-user-header bg-yellow" style="background: url('../dist/img/agente1.jpeg') center center;">
               <h3 class="widget-user-username">Noelia Sánchez</h3>
               <h5 class="widget-user-desc">Agente Inmobiliario</h5>
             </div>
             <div class="widget-user-image">
-              <img class="img-circle" src="{{ asset('frontend') }}/dist/img/user3-128x128.jpg" alt="User Avatar">
+              <img class="img-circle" src="{{ asset('frontend') }}/dist/img/agente.jpeg" alt="User Avatar">
             </div>
             <div class="box-footer">
               <div class="row">

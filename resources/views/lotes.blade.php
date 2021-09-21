@@ -3,7 +3,7 @@
 @section('content')
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
-    <section class="content-header">
+    <!-- <section class="content-header">
       <h1>
       Lotes
         <small>Inmuebles Disponibles</small>
@@ -12,7 +12,7 @@
         <li><a href="#"><i class="fa fa-dashboard"></i> Inmuebles Disponibles</a></li>
         <li class="active">Lotes</li>
       </ol>
-    </section>
+    </section> -->
 
     <!-- Main content -->
     <section class="content">
@@ -31,14 +31,14 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="item active">
-                    <img src="https://cdn.pixabay.com/photo/2015/12/06/09/15/maple-1079235__340.jpg" alt="First slide">
+                  <img src="{{ asset('frontend') }}/dist/img/carousel/lote1.jpg" alt="First slide">
 
                     <div class="carousel-caption">
                       Primer Imagen
                     </div>
                   </div>
                   <div class="item">
-                    <img src="https://cdn.pixabay.com/photo/2016/09/01/19/53/pocket-watch-1637396__480.jpg" alt="Second slide">
+                    <img src="{{ asset('frontend') }}/dist/img/carousel/lote2.jpg" alt="Second slide">
 
                     <div class="carousel-caption">
                       Segunda Imagen
@@ -66,7 +66,10 @@
             </div>
             <!-- /.row (main row) -->
 
-      <h1 class="page-header">Búsqueda</h1>
+            <h1>
+      Lotes
+        <small>Inmuebles Disponibles</small>
+      </h1>
       <div class="row">
         <div class="col-lg-6 col-xs-6">
           <!-- small box -->
@@ -125,6 +128,7 @@
         <!-- ./col -->
       </div>
 
+      <br />
       <div class="row">
       <div class="col-md-4">
           <!-- Widget: user widget style 1 -->
