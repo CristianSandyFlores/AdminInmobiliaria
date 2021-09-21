@@ -15,7 +15,7 @@
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">MENÚ NAVEGACIÓN</li>
         <li class="active treeview">
-          <a href="index.html">
+          <a href="home">
             <i class="fa fa-dashboard"></i> <span>Inicio</span>
           </a>
         </li>

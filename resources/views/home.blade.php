@@ -32,21 +32,21 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="item active">
-                    <img src="https://cdn.pixabay.com/photo/2015/12/06/09/15/maple-1079235__340.jpg" alt="First slide">
+                    <img src="{{ asset('frontend') }}/dist/img/carousel/p1.jpg" alt="First slide">
 
                     <div class="carousel-caption">
                       Primer Imagen
                     </div>
                   </div>
                   <div class="item">
-                    <img src="https://cdn.pixabay.com/photo/2016/09/01/19/53/pocket-watch-1637396__480.jpg" alt="Second slide">
+                    <img src="{{ asset('frontend') }}/dist/img/carousel/p2.jpg" alt="Second slide">
 
                     <div class="carousel-caption">
                       Segunda Imagen
                     </div>
                   </div>
                   <div class="item">
-                    <img src="https://marketplace.canva.com/EAD5hV8u9XE/1/0/1600w/canva-amarillo-y-verde-multicolor-d%C3%ADa-de-la-tierra-banner-para-sitio-web-IK9zQe_4Tm8.jpg" alt="Third slide">
+                    <img src="{{ asset('frontend') }}/dist/img/carousel/p3.jpg" alt="Third slide">
 
                     <div class="carousel-caption">
                       Tercera Imagen
