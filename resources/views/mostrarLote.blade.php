@@ -6,11 +6,11 @@
             <div class="row">
                 <div class="col-lg-4 col-xs-6">
                 <!-- small box -->
-                <div class="small-box bg-aqua">
+                <div class="small-box bg-green">
                     <div class="inner">
                     <h3>150</h3>
 
-                    <h3>Lotes</h3>
+                    <h3>En venta</h3>
                     </div>
                     <div class="icon">
                     <i class="ion ion-pie-graph"></i>
@@ -21,11 +21,11 @@
                 <!-- ./col -->
                 <div class="col-lg-4 col-xs-6">
                 <!-- small box -->
-                <div class="small-box bg-green">
+                <div class="small-box bg-yellow">
                     <div class="inner">
                     <h3>53</h3>
 
-                    <h3>Terrenos</h3>
+                    <h3>Reservados</h3>
                     </div>
                     <div class="icon">
                     <i class="fa fa-bookmark-o"></i>
@@ -36,11 +36,11 @@
                 <!-- ./col -->
                 <div class="col-lg-4 col-xs-6">
                 <!-- small box -->
-                <div class="small-box bg-yellow">
+                <div class="small-box bg-red">
                     <div class="inner">
                     <h3>11</h3>
 
-                    <h3>Condominios</h3>
+                    <h3>Vendidos</h3>
                     </div>
                     <div class="icon">
                     <i class="fa fa-calendar"></i>
@@ -81,9 +81,9 @@
                         <i class="fa fa-minus"></i></button>
                     </div>
                     <!-- /. tools -->
-      
+
                     <i class="fa fa-map-marker"></i>
-      
+
                     <h3 class="box-title">
                       Plano de Lotes
                     </h3>

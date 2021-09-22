@@ -5,7 +5,7 @@
       <span class="logo-mini"><b>TH</b>365</span>
       <!-- logo for regular state and mobile devices -->
       <span class="logo-lg">
-        <img src="{{ asset('frontend') }}/dist/img/logo.svg" width="106px" height="122px" alt="insertar SVG con la etiqueta image">
+        <img src="{{ asset('frontend') }}/dist/img/logo.png" width="106px" height="122px" alt="insertar SVG con la etiqueta image">
       </span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
