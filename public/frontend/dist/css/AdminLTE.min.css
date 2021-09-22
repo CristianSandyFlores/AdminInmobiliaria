@@ -6451,3 +6451,21 @@
         background-color:#ffffff;
         color: #050505;
     }
+    #mapaDiv{
+        width: 90%;
+        margin: auto;
+    }
+    #mapaDiv  polygon{
+        /* fill: #fff; */
+        stroke: #ffffff;
+        stroke-width:2px ;
+    }
+    #mapaDiv  path{
+        /* fill: #ffffff; */
+        stroke: #ffffff;
+        stroke-width:2px ;
+    }
+
+    #mapaDiv :hover{
+        fill: rgb(234, 237, 62)
+    }
