@@ -27,14 +27,15 @@
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
-<body class="hold-transition login-page">
+<body class="hold-transition login-page fondo">
 <div class="login-box">
-  <div class="login-logo">
-    <a href="https://tuhogar365.com"><b>Inmobiliaria</b>TuHogar365</a>
+  <div class="login-logo" >
+    <a href="https://tuhogar365.com"  id="letra">  <img src="{{ asset('frontend') }}/dist/img/logo.png" width="100%" height="122px" alt="insertar SVG con la etiqueta image"></a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
-    <p class="login-box-msg">Iniciar Sesión</p>
+
+    <p class="login-box-msg"  id="letra">Iniciar Sesión</p>
 
     <form action="home" method="get">
       <div class="form-group has-feedback">
@@ -48,21 +49,20 @@
       <div class="row">
         <div class="col-xs-8">
           <div class="checkbox icheck">
-            <label>
-              <input type="checkbox"> Recuérdame
+            <label  id="letra">
+              <input type="checkbox" > Recuérdame
             </label>
           </div>
         </div>
         <!-- /.col -->
         <div class="col-xs-4">
-          <button type="submit" class="btn btn-primary btn-block btn-flat">Ingresar</button>
+          <button type="submit" class="btn  btn-block btn-flat" id="buttonColor">Ingresar</button>
         </div>
         <!-- /.col -->
       </div>
     </form>
 
-    <a href="#">Olvidé mi contraseña</a><br>
-    <a href="register" class="text-center">Registrar Nueva Cuenta</a>
+
 
   </div>
   <!-- /.login-box-body -->
