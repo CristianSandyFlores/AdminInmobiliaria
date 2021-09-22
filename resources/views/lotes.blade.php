@@ -134,7 +134,7 @@
           <!-- Widget: user widget style 1 -->
           <div class="box box-widget widget-user">
             <!-- Add the bg color to the header using any of the bg-* classes -->
-            <div class="widget-user-header bg-green">
+            <div class="widget-user-header" style="background-color:#1ea69a;">
               <h3 align="center">Urbanización Valle del Sol</h3>
               <h5 align="center">
                   Zona Motecato - Vinto
@@ -164,7 +164,7 @@
           <!-- Widget: user widget style 1 -->
           <div class="box box-widget widget-user">
             <!-- Add the bg color to the header using any of the bg-* classes -->
-            <div class="widget-user-header bg-yellow">
+            <div class="widget-user-header colour">
               <h3 align="center">Urbanización Punta Cana</h3>
               <h5 align="center">
                   Zona Quillacollo
