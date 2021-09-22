@@ -7,31 +7,39 @@
                   <div class="row">
               <!-- right col (We are only adding the ID to make the widgets sortable)-->
               <section class="col-lg-12 connectedSortable">
-      
+
               <div class="box-body">
               <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                   <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                   <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
                   <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
+                  <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
                 </ol>
                 <div class="carousel-inner">
                   <div class="item active">
-                    <img src="{{ asset('frontend') }}/dist/img/carousel/lote1.jpg" alt="First slide">
+                    <img src="{{ asset('frontend') }}/dist/img/carousel/terreina.jpg" alt="First slide">
 
                     <div class="carousel-caption">
                       Primer Imagen
                     </div>
                   </div>
                   <div class="item">
-                    <img src="https://cdn.pixabay.com/photo/2016/09/01/19/53/pocket-watch-1637396__480.jpg" alt="Second slide">
+                    <img src="{{ asset('frontend') }}/dist/img/carousel/terain2a.jpg" alt="Second slide">
 
                     <div class="carousel-caption">
                       Segunda Imagen
                     </div>
                   </div>
                   <div class="item">
-                    <img src="https://marketplace.canva.com/EAD5hV8u9XE/1/0/1600w/canva-amarillo-y-verde-multicolor-d%C3%ADa-de-la-tierra-banner-para-sitio-web-IK9zQe_4Tm8.jpg" alt="Third slide">
+                    <img src="{{ asset('frontend') }}/dist/img/carousel/terrain3a.jpg" alt="Third slide">
+
+                    <div class="carousel-caption">
+                      Tercera Imagen
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="{{ asset('frontend') }}/dist/img/carousel/terrain4a.jpg" alt="Third slide">
 
                     <div class="carousel-caption">
                       Tercera Imagen
@@ -46,7 +54,7 @@
                 </a>
               </div>
             </div>
-      
+
               </section>
               <!-- right col -->
             </div>
@@ -86,15 +94,15 @@
                         <i class="fa fa-minus"></i></button>
                     </div>
                     <!-- /. tools -->
-      
+
                     <i class="fa fa-map-marker"></i>
-      
+
                     <h3 class="box-title">
                       Lote 5
                     </h3>
                   </div>
                   <div class="box-body">
-                  <img class="img-responsive pad" src="https://www.semana.com/resizer/IEcOf8TJx4XxRszD1F26YO7lixw=/1200x675/filters:format(jpg):quality(50)//cloudfront-us-east-1.images.arcpublishing.com/semana/4KEOUCGM7FDRHGJVNJJWTAF464.jpeg" alt="Photo">
+                  <img class="img-responsive pad" src="https://i.blogs.es/9f1f6a/google-maps-street-view-pantalla-dividida-/1366_2000.jpeg" alt="Photo">
                   </div>
                   <!-- /.box-body-->
                   <div class="box-footer no-border">

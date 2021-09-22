@@ -364,16 +364,16 @@
                             <p />
                             <div class="col-md-4">
                             <p class="text-center">
-                                    <strong>Caracteristica del Mapa</strong>
+                                    <strong>Caracteristica del Mapa colores</strong>
                                 </p>
                                 <div class="direct-chat-text" id="letra" style="background-color:#00a65a">
-                                    Este color representa los sectores Disponibles
+                                   Los sectores Disponibles
                                 </div>
                                 <div class="direct-chat-text" id="letra" style="background-color:#f39c12">
-                                Este color representa los sectores Reservados
+                                 Los sectores Reservados
                                 </div>
                                 <div class="direct-chat-text" id="letra"  style="background-color:#dd4b39">
-                                Este color representa los sectores no Disponibles
+                                Los sectores no Disponibles
                                 </div>
                                 <div class="direct-chat-text" id="letra" style="background-color:#b2babb">
                                 Este color representa los sectores publicos o verdes
