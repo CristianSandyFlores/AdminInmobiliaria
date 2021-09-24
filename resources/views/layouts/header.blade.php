@@ -2,7 +2,9 @@
     <!-- Logo -->
     <a href="#" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>TH</b>365</span>
+      <span class="logo-mini">
+        <img src="{{ asset('frontend') }}/dist/img/icono.png" width="106px" height="122px" alt="insertar SVG con la etiqueta image">
+      </span>
       <!-- logo for regular state and mobile devices -->
       <span class="logo-lg">
         <img src="{{ asset('frontend') }}/dist/img/logo.png" width="106px" height="122px" alt="insertar SVG con la etiqueta image">
