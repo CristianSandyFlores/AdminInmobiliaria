@@ -1,0 +1,99 @@
+.card {
+    position: relative;
+    max-width: 100%;
+    border: none;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+}
+
+.card-img-top {
+    max-height: 200px;
+    overflow: hidden;
+}
+
+.card-block {
+    position: relative;
+    padding: 2rem;
+}
+
+.logo-card {
+    margin-top: -80px;
+}
+
+.card-title {
+    color: #ff7428;
+    font-size: 22px;
+    margin: 10px 0;
+}
+
+.card-text {
+    margin-bottom: 0;
+    font-size: 18px;
+    color: #3a3b3c;
+}
+
+.view-more {
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    top: 0;
+    left: 85%;
+    -webkit-transform: translate3d(-50%, -50%, 0);
+    transform: translate3d(-50%, -50%, 0);
+    border-radius: 5%;
+    padding: 0;
+    width: 115px;
+    height: 3rem;
+    -webkit-transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+}
+
+.icon {
+    width: 50%;
+    height: 50%;
+    margin-left: -10%;
+    -webkit-transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+}
+
+hr {
+    border-top: solid #d3d3d3 1px;
+    margin-bottom: 0;
+}
+
+.prices-homes {
+    padding: 0px 0;
+    overflow: hidden;
+}
+
+.prices span {
+    color: #ff7428;
+    font-size: 16px;
+    display: block;
+}
+
+h4 {
+    color: #3a3b3c;
+    font-size: 30px;
+}
+
+.color {
+    background-color: #ff7428;
+    color: #fff;
+}
+.color-select{
+    background-color: #374850;
+    color:#ffffff;
+}
+.color-select:focus{
+    color:#ffffff;
+}
