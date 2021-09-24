@@ -23,6 +23,7 @@ Route::view('/home', 'home');
 Route::view('/lotes', 'lotes');
 Route::view('/mostrarLote', 'mostrarLote');
 Route::view('/descripcionLote', 'descripcionLote');
+Route::view('/cotizaciones', 'cotizaciones');
 
 
 

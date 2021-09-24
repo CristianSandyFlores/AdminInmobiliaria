@@ -20,25 +20,23 @@
                   <li data-target=" #carousel-example-generic"
                                     data-slide-to="2" class=""></li>
                 </ol>
-                <div class="
-                                    carousel-inner">
-                                    <div class="item active">
-                                        <img src="{{ asset('frontend') }}/dist/img/carousel/lote1.jpg" alt="First slide">
+                <div class="carousel-inner">
+                  <div class="item active">
+                  <img src="{{ asset('frontend') }}/dist/img/p/lotes.jpg" alt="First slide">
 
-                                        <div class="carousel-caption">
-                                            Primer Imagen
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <img src="{{ asset('frontend') }}/dist/img/carousel/green.jpg" alt="Second slide">
+                    <div class="carousel-caption">
+                      Primer Imagen
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="{{ asset('frontend') }}/dist/img/p/lotes2.jpg" alt="Second slide">
 
-                                        <div class="carousel-caption">
-                                            Segunda Imagen
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <img src="{{ asset('frontend') }}/dist/img/carousel/arboles.jpg"
-                                            alt="Third slide">
+                    <div class="carousel-caption">
+                      Segunda Imagen
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="{{ asset('frontend') }}/dist/img/p/lotes3.jpg" alt="Third slide">
 
                                         <div class="carousel-caption">
                                             Tercera Imagen
@@ -113,39 +111,29 @@
 </div>
     <!-- Fin prueba -->
 
-    <!-- Lista de terrenos -->
-    <br />
-    <div class="row">
-        <div class="col-md-4">
-            <div class="box box-widget ">
-                <!-- Widget: user widget style 1 -->
-                <div class='card mt-3'>
-                    <div class='card-img-top'>
-                        <img alt='' class='img-fluid img-responsive'
-                            src='https://s1.eestatic.com/2021/04/29/invertia/empresas/inmobiliario/577453905_183658190_1024x576.jpg'>
-                    </div>
-                    <div class='card-block'>
-
-                        <h4 class='card-title'>LA MORALEJA</h4>
-                        <p class='card-text'>
-                            <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            Zona Montecato - Vinto
-                        </p>
-                        <a class='btn color view-more' href='mostrarLote'>
-                            Ver más
-                        </a>
-                        <hr />
-                        <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
-                            </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 metro2</h4>
-                            </div>
-                        </div>
-                    </div>
+      <br />
+      <div class="row">
+      <div class="col-md-4">
+          <!-- Widget: user widget style 1 -->
+          <div class="box box-widget widget-user">
+            <!-- Add the bg color to the header using any of the bg-* classes -->
+            <div class="widget-user-header bg-yellow" ">
+              <h3 align="center"><b>Urbanización Valle del Sol</h3></b>
+              <h5 align="center">
+                  Zona Motecato - Vinto
+              </h5>
+              <h5 align="center">
+                  Terrenos desde 300m2
+              </h5>
+            </div>
+            <div class="box-footer">
+              <div class="row">
+                <!-- /.col -->
+                <div class="col-sm-12">
+                  <div class="description-block">
+                  <a href="mostrarLote"><input type="image" src="{{ asset('frontend') }}/dist/img/p/boton.jpg" width="320" height="160" /></a>
+                  </div>
+                  <!-- /.description-block -->
                 </div>
             </div>
             <!-- /.widget-user -->
@@ -153,35 +141,26 @@
         <!-- /.col -->
 
         <div class="col-md-4">
-            <!-- Widget: user widget style 1 -->
-            <div class="box box-widget ">
-                <div class='card'>
-                    <div class='card-img-top'>
-                        <img alt='' class='img-fluid img-responsive'
-                            src='https://cdn8.ultracasas.com/dyn/yastaimages/8bc7834719f510c0c88207ab7739ea15929371'>
-                    </div>
-                    <div class='card-block'>
-
-                        <h4 class='card-title'>LA MORALEJA</h4>
-                        <p class='card-text'>
-                            <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            Zapopan
-                        </p>
-                        <a class='btn color view-more' href='mostrarLote'>
-                            Ver más
-                        </a>
-                        <hr />
-                        <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
-                            </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
-                            </div>
-                        </div>
-                    </div>
+          <!-- Widget: user widget style 1 -->
+          <div class="box box-widget widget-user">
+            <!-- Add the bg color to the header using any of the bg-* classes -->
+            <div class="widget-user-header bg-yellow">
+              <h3 align="center"><b>Urbanización Punta Cana</b></h3>
+              <h5 align="center">
+                  Zona Quillacollo
+              </h5>
+              <h5 align="center">
+              Terrenos desde 300m2
+              </h5>
+            </div>
+            <div class="box-footer">
+              <div class="row">
+                <!-- /.col -->
+                <div class="col-sm-12">
+                  <div class="description-block">
+                  <input type="image" src="https://gacetinmadrid.com/wp-content/uploads/2019/01/P_015-1.jpg" width="320" height="160" />
+                  </div>
+                  <!-- /.description-block -->
                 </div>
             </div>
             <!-- /.widget-user -->

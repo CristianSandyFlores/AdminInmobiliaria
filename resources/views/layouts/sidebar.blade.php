@@ -14,8 +14,8 @@
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">MENÚ NAVEGACIÓN</li>
-        <li class="active treeview">
-          <a href="home?#">
+        <li>
+          <a href="home">
             <i class="fa fa-dashboard"></i> <span>Inicio</span>
           </a>
         </li>
@@ -33,19 +33,11 @@
             <li><a href="pages/charts/flot.html"><i class="fa fa-circle-o"></i> Condominios</a></li>
           </ul>
         </li>
-        <li class="treeview">
-          <a href="#">
+        <li>
+          <a href="cotizaciones">
             <i class="fa fa-laptop"></i>
             <span>Cotizaciones</span>
-            <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
           </a>
-          <ul class="treeview-menu">
-            <li><a href="pages/UI/general.html"><i class="fa fa-circle-o"></i> Ventas</a></li>
-            <li><a href="pages/UI/icons.html"><i class="fa fa-circle-o"></i> Créditos</a></li>
-            <li><a href="pages/UI/buttons.html"><i class="fa fa-circle-o"></i> Cobros</a></li>
-          </ul>
         </li>
         <li class="treeview">
           <a href="#">
