@@ -24,6 +24,7 @@ Route::view('/lotes', 'lotes');
 Route::view('/mostrarLote', 'mostrarLote');
 Route::view('/descripcionLote', 'descripcionLote');
 Route::view('/cotizaciones', 'cotizaciones');
+Route::view('/registroCotizacion', 'registroCotizacion');
 
 
 
