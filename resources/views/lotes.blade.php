@@ -193,7 +193,217 @@
                 <div class='card'>
                     <div class='card-img-top'>
                         <img alt='' class='img-fluid img-responsive'
-                        src='https://cdn8.ultracasas.com/dyn/yastaimages/8bc7834719f510c0c88207ab7739ea15929371'>
+                        src='https://cdn8.ultracasas.com/dyn/yastaimages/8bc7834719f510c0c88207ab7739ea15929371'> 
+                    </div>
+                    <div class='card-block'>
+
+                        <h4 class='card-title'>LA MORALEJA</h4>
+                        <p class='card-text'>
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Zapopan
+                        </p>
+                        <a class='btn color view-more ' href='#'>
+                            Ver más
+                        </a>
+                        <hr />
+                        <div class="row prices-homes">
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Casa desde</span>
+                                <h4>$692,000</h4>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Terrenos desde</span>
+                                <h4>500 m2</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.widget-user -->
+        </div>
+        <div class="col-md-4">
+            <div class="box box-widget ">
+                <!-- Widget: user widget style 1 -->
+                <div class='card mt-3'>
+                    <div class='card-img-top'>
+                        <img alt='' class='img-fluid img-responsive'
+                            src='https://s1.eestatic.com/2021/04/29/invertia/empresas/inmobiliario/577453905_183658190_1024x576.jpg'>
+                    </div>
+                    <div class='card-block'>
+
+                        <h4 class='card-title'>LA MORALEJA</h4>
+                        <p class='card-text'>
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Zona Montecato - Vinto
+                        </p>
+                        <a class='btn color view-more' href='mostrarLote'>
+                            Ver más
+                        </a>
+                        <hr />
+                        <div class="row prices-homes">
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Casa desde</span>
+                                <h4>$692,000</h4>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Terrenos desde</span>
+                                <h4>500 m2</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.widget-user -->
+        </div>
+        <!-- /.col -->
+
+        <div class="col-md-4">
+            <!-- Widget: user widget style 1 -->
+            <div class="box box-widget ">
+                <div class='card'>
+                    <div class='card-img-top'>
+                        <img alt='' class='img-fluid img-responsive'
+                            src='https://cdn8.ultracasas.com/dyn/yastaimages/8bc7834719f510c0c88207ab7739ea15929371'>
+                    </div>
+                    <div class='card-block'>
+
+                        <h4 class='card-title'>LA MORALEJA</h4>
+                        <p class='card-text'>
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Zapopan
+                        </p>
+                        <a class='btn color view-more' href='mostrarLote'>
+                            Ver más
+                        </a>
+                        <hr />
+                        <div class="row prices-homes">
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Casa desde</span>
+                                <h4>$692,000</h4>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Terrenos desde</span>
+                                <h4>500 m2</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.widget-user -->
+        </div>
+        <!-- /.col -->
+        <div class="col-md-4">
+            <div class="box box-widget ">
+                <!-- Widget: user widget style 1 -->
+                <div class='card'>
+                    <div class='card-img-top'>
+                        <img alt='' class='img-fluid img-responsive'
+                        src='https://cdn8.ultracasas.com/dyn/yastaimages/8bc7834719f510c0c88207ab7739ea15929371'> 
+                    </div>
+                    <div class='card-block'>
+
+                        <h4 class='card-title'>LA MORALEJA</h4>
+                        <p class='card-text'>
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Zapopan
+                        </p>
+                        <a class='btn color view-more ' href='#'>
+                            Ver más
+                        </a>
+                        <hr />
+                        <div class="row prices-homes">
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Casa desde</span>
+                                <h4>$692,000</h4>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Terrenos desde</span>
+                                <h4>500 m2</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.widget-user -->
+        </div>
+        <div class="col-md-4">
+            <div class="box box-widget ">
+                <!-- Widget: user widget style 1 -->
+                <div class='card mt-3'>
+                    <div class='card-img-top'>
+                        <img alt='' class='img-fluid img-responsive'
+                            src='https://s1.eestatic.com/2021/04/29/invertia/empresas/inmobiliario/577453905_183658190_1024x576.jpg'>
+                    </div>
+                    <div class='card-block'>
+
+                        <h4 class='card-title'>LA MORALEJA</h4>
+                        <p class='card-text'>
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Zona Montecato - Vinto
+                        </p>
+                        <a class='btn color view-more' href='mostrarLote'>
+                            Ver más
+                        </a>
+                        <hr />
+                        <div class="row prices-homes">
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Casa desde</span>
+                                <h4>$692,000</h4>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Terrenos desde</span>
+                                <h4>500 m2</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.widget-user -->
+        </div>
+        <!-- /.col -->
+
+        <div class="col-md-4">
+            <!-- Widget: user widget style 1 -->
+            <div class="box box-widget ">
+                <div class='card'>
+                    <div class='card-img-top'>
+                        <img alt='' class='img-fluid img-responsive'
+                            src='https://cdn8.ultracasas.com/dyn/yastaimages/8bc7834719f510c0c88207ab7739ea15929371'>
+                    </div>
+                    <div class='card-block'>
+
+                        <h4 class='card-title'>LA MORALEJA</h4>
+                        <p class='card-text'>
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Zapopan
+                        </p>
+                        <a class='btn color view-more' href='mostrarLote'>
+                            Ver más
+                        </a>
+                        <hr />
+                        <div class="row prices-homes">
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Casa desde</span>
+                                <h4>$692,000</h4>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
+                                <span>Terrenos desde</span>
+                                <h4>500 m2</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.widget-user -->
+        </div>
+        <!-- /.col -->
+        <div class="col-md-4">
+            <div class="box box-widget ">
+                <!-- Widget: user widget style 1 -->
+                <div class='card'>
+                    <div class='card-img-top'>
+                        <img alt='' class='img-fluid img-responsive'
+                        src='https://cdn8.ultracasas.com/dyn/yastaimages/8bc7834719f510c0c88207ab7739ea15929371'> 
                     </div>
                     <div class='card-block'>
 
