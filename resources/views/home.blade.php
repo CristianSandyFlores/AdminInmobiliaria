@@ -21,24 +21,24 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="{{ asset('frontend') }}/dist/img/carousel/p1.jpg" alt="First slide">
+                                <img src="{{ asset('frontend') }}/dist/img/p/collpas.jpg" alt="First slide">
 
                                 <div class="carousel-caption">
-                                    <h1><b> Sala de Estar</b></h1>
+                                    <h1><b> Edificio Collpas</b></h1>
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="{{ asset('frontend') }}/dist/img/carousel/p2.jpg" alt="Second slide">
+                                <img src="{{ asset('frontend') }}/dist/img/p/tuhogar.jpg" alt="Second slide">
 
                                 <div class="carousel-caption">
-                                    <h1><b> Casas a disposicion a todo Precios</b></h1>
+                                    <h1><b> Tu Hogar 365</b></h1>
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="{{ asset('frontend') }}/dist/img/carousel/p3.jpg" alt="Third slide">
+                                <img src="{{ asset('frontend') }}/dist/img/p/portada.jpg" alt="Third slide">
 
                                 <div class="carousel-caption">
-                                    <h1><b> Cocinas completamente equipadas y funcionales para tu dia a dia</b></h1>
+                                    <h1><b> Urbanización Nuevo Sol</b></h1>
                                 </div>
                             </div>
                         </div>
@@ -63,7 +63,8 @@
                     <div class="inner">
                         <h3>150</h3>
 
-                        <h3>Lotes</h3>
+                        <h3>Lotes en </h3>
+                        <h3>Urbanizaciones </h3>
                     </div>
                     <div class="icon">
                         <i class="ion ion-pie-graph"></i>
@@ -78,7 +79,8 @@
                     <div class="inner">
                         <h3>53</h3>
 
-                        <h3>Terrenos</h3>
+                        <h3>Lotes </h3>
+                        <h3>Independientes </h3>
                     </div>
                     <div class="icon">
                         <i class="fa fa-bookmark-o"></i>
@@ -93,7 +95,8 @@
                     <div class="inner">
                         <h3>11</h3>
 
-                        <h3>Condominios</h3>
+                        <h3>Departamentos en </h3>
+                        <h3>Condominios </h3>
                     </div>
                     <div class="icon">
                         <i class="fa fa-calendar"></i>

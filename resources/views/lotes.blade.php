@@ -20,21 +20,21 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="item active">
-                  <img src="{{ asset('frontend') }}/dist/img/carousel/lote1.jpg" alt="First slide">
+                  <img src="{{ asset('frontend') }}/dist/img/p/lotes.jpg" alt="First slide">
 
                     <div class="carousel-caption">
                       Primer Imagen
                     </div>
                   </div>
                   <div class="item">
-                    <img src="{{ asset('frontend') }}/dist/img/carousel/green.jpg" alt="Second slide">
+                    <img src="{{ asset('frontend') }}/dist/img/p/lotes2.jpg" alt="Second slide">
 
                     <div class="carousel-caption">
                       Segunda Imagen
                     </div>
                   </div>
                   <div class="item">
-                    <img src="{{ asset('frontend') }}/dist/img/carousel/arboles.jpg" alt="Third slide">
+                    <img src="{{ asset('frontend') }}/dist/img/p/lotes3.jpg" alt="Third slide">
 
                     <div class="carousel-caption">
                       Tercera Imagen
@@ -126,7 +126,7 @@
                 <!-- /.col -->
                 <div class="col-sm-12">
                   <div class="description-block">
-                  <a href="mostrarLote"><input type="image" src="https://s1.eestatic.com/2021/04/29/invertia/empresas/inmobiliario/577453905_183658190_1024x576.jpg" width="320" height="160" /></a>
+                  <a href="mostrarLote"><input type="image" src="{{ asset('frontend') }}/dist/img/p/boton.jpg" width="320" height="160" /></a>
                   </div>
                   <!-- /.description-block -->
                 </div>
@@ -143,7 +143,7 @@
           <div class="box box-widget widget-user">
             <!-- Add the bg color to the header using any of the bg-* classes -->
             <div class="widget-user-header bg-yellow">
-              <h3 align="center"><b>Urban   ización Punta Cana</b></h3>
+              <h3 align="center"><b>Urbanización Punta Cana</b></h3>
               <h5 align="center">
                   Zona Quillacollo
               </h5>
