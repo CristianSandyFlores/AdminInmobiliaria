@@ -83,7 +83,7 @@
             <!-- /.box-body -->
           </div>
           <!-- /.box -->
-          <td><button type="button" class="btn btn-block btn-primary btn-lg" style='width:210px; height:45px'>Crear Nueva Cotización</button></td>
+          <td><button type="button" class="btn btn-block btn-primary btn-lg" style='width:210px; height:45px'>Crear Cotización</button></td>
         </div>
       </div>
         </section>
