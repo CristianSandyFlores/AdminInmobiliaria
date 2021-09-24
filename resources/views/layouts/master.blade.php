@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="{{ asset('frontend') }}/bower_components/Ionicons/css/ionicons.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="{{ asset('frontend') }}/dist/css/AdminLTE.min.css">
+  {{-- hola mundo --}}
   <!-- AdminLTE Skins. Choose a skin from the css/skins
        folder instead of downloading all of them to reduce the load. -->
   <link rel="stylesheet" href="{{ asset('frontend') }}/dist/css/skins/_all-skins.min.css">
