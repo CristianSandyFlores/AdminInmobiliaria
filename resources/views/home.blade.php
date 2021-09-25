@@ -57,7 +57,7 @@
         <!-- /.row (main row) -->
         <!-- Small boxes (Stat box) -->
         <div class="row">
-            <div class="col-lg-4 col-xs-6">
+            <div class="col-lg-4 ">
                 <!-- small box -->
                 <div class="small-box bg-aqua">
                     <div class="inner">
@@ -73,7 +73,7 @@
                 </div>
             </div>
             <!-- ./col -->
-            <div class="col-lg-4 col-xs-6">
+            <div class="col-lg-4 ">
                 <!-- small box -->
                 <div class="small-box bg-green">
                     <div class="inner">
@@ -89,7 +89,7 @@
                 </div>
             </div>
             <!-- ./col -->
-            <div class="col-lg-4 col-xs-6">
+            <div class="col-lg-4 ">
                 <!-- small box -->
                 <div class="small-box bg-yellow">
                     <div class="inner">
