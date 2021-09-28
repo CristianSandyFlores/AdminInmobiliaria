@@ -76,7 +76,7 @@ hr {
 }
 
 .prices span {
-    color: #ff7428;
+    /* color: #ff7428; */
     font-size: 16px;
     display: block;
 }
@@ -96,4 +96,14 @@ h4 {
 }
 .color-select:focus{
     color:#ffffff;
+}
+
+.color-venta{
+    color: #00a65a;
+}
+.color-reservado{
+    color:#f39c12;
+}
+.color-comprado{
+    color: #dd4b39;
 }

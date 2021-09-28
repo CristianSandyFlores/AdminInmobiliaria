@@ -86,14 +86,18 @@
                         </a>
                         <hr />
                         <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class=" color-venta">Disponible</span>
+                                <h4>120</h4>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 m2</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class="color-reservado">Reservado</span>
+                                <h4>2</h4>
                             </div>
+                            <div class=" btn   col-sm-4 col-md-4 col-lg-4 prices">
+                              <span class="color-comprado">No Disponible</span>
+                              <h4>50</h4>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -122,14 +126,18 @@
                         </a>
                         <hr />
                         <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class=" color-venta">Disponible</span>
+                                <h4>120</h4>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 m2</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class="color-reservado">Reservado</span>
+                                <h4>2</h4>
                             </div>
+                            <div class=" btn   col-sm-4 col-md-4 col-lg-4 prices">
+                              <span class="color-comprado">No Disponible</span>
+                              <h4>50</h4>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -157,14 +165,18 @@
                         </a>
                         <hr />
                         <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class=" color-venta">Disponible</span>
+                                <h4>120</h4>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 m2</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class="color-reservado">Reservado</span>
+                                <h4>2</h4>
                             </div>
+                            <div class=" btn   col-sm-4 col-md-4 col-lg-4 prices">
+                              <span class="color-comprado">No Disponible</span>
+                              <h4>50</h4>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -191,14 +203,18 @@
                         </a>
                         <hr />
                         <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class=" color-venta">Disponible</span>
+                                <h4>120</h4>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 m2</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class="color-reservado">Reservado</span>
+                                <h4>2</h4>
                             </div>
+                            <div class=" btn   col-sm-4 col-md-4 col-lg-4 prices">
+                              <span class="color-comprado">No Disponible</span>
+                              <h4>50</h4>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -227,14 +243,18 @@
                         </a>
                         <hr />
                         <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class=" color-venta">Disponible</span>
+                                <h4>120</h4>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 m2</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class="color-reservado">Reservado</span>
+                                <h4>2</h4>
                             </div>
+                            <div class=" btn   col-sm-4 col-md-4 col-lg-4 prices">
+                              <span class="color-comprado">No Disponible</span>
+                              <h4>50</h4>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -262,14 +282,18 @@
                         </a>
                         <hr />
                         <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class=" color-venta">Disponible</span>
+                                <h4>120</h4>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 m2</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class="color-reservado">Reservado</span>
+                                <h4>2</h4>
                             </div>
+                            <div class=" btn   col-sm-4 col-md-4 col-lg-4 prices">
+                              <span class="color-comprado">No Disponible</span>
+                              <h4>50</h4>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -296,14 +320,18 @@
                         </a>
                         <hr />
                         <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class=" color-venta">Disponible</span>
+                                <h4>120</h4>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 m2</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class="color-reservado">Reservado</span>
+                                <h4>2</h4>
                             </div>
+                            <div class=" btn   col-sm-4 col-md-4 col-lg-4 prices">
+                              <span class="color-comprado">No Disponible</span>
+                              <h4>50</h4>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -332,14 +360,18 @@
                         </a>
                         <hr />
                         <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class=" color-venta">Disponible</span>
+                                <h4>120</h4>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 m2</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class="color-reservado">Reservado</span>
+                                <h4>2</h4>
                             </div>
+                            <div class=" btn   col-sm-4 col-md-4 col-lg-4 prices">
+                              <span class="color-comprado">No Disponible</span>
+                              <h4>50</h4>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -367,14 +399,18 @@
                         </a>
                         <hr />
                         <div class="row prices-homes">
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Casa desde</span>
-                                <h4>$692,000</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class=" color-venta">Disponible</span>
+                                <h4>120</h4>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 prices">
-                                <span>Terrenos desde</span>
-                                <h4>500 m2</h4>
+                            <div class="btn col-sm-4 col-md-4 col-lg-4 prices">
+                                <span class="color-reservado">Reservado</span>
+                                <h4>2</h4>
                             </div>
+                            <div class=" btn   col-sm-4 col-md-4 col-lg-4 prices">
+                              <span class="color-comprado">No Disponible</span>
+                              <h4>50</h4>
+                          </div>
                         </div>
                     </div>
                 </div>
