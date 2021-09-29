@@ -70,7 +70,7 @@
                     <input type="text" class="form-control" id="precio" placeholder="Precio">
                   </div>
                   <div>
-                  <label for="precioInicial" class="col-sm-2 control-label">Iniciak</label>
+                  <label for="precioInicial" class="col-sm-2 control-label">Inicial</label>
                   <div class="col-sm-3">
                     <input type="text" class="form-control" id="precioInicial" placeholder="Inicial">
                   </div>
