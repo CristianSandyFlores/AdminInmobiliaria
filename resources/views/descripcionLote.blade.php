@@ -69,7 +69,7 @@
                   </p>
                   <p>Far far away, behind the word mountains, far from the
                    countries Vokalia and Consonantia, there live the blind
-                   texts. Separated they live in Bookmarksgrove right at</p>
+                   texts. Separated they live in Bookmarksgrove right</p>
 
                    <strong>CARACTERÍSTICAS</strong>
 
