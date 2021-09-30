@@ -78,6 +78,8 @@
                    it with the necessary regelialia. It is a paradisematic
                    country, in which roasted parts of sentences fly into
                    your mouth.</p>
+
+                   <a href="registroCliente"><button type="button" class="btn btn-block btn-primary btn-xs col-sm-2" style="width:100px;height:30px;margin-right: 5px;">Registrar Cliente</button></a>
                 </div>
                 <div class="col-md-8">
                   <p class="text-center">

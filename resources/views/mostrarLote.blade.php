@@ -93,14 +93,16 @@
                                                     <i class="fa fa-minus"></i></button>
                                             </div>
                                             <!-- /. tools -->
-
                                             <i class="fa fa-map-marker"></i>
-
                                             <h3 class="box-title">
                                                 Plano de Lotes
                                             </h3>
                                         </div>
-                                        <div class="box-body" id="mapaDiv">
+                                        <div class="box-body jvectormap-container" id="mapaDiv">
+                
+                                        <div class="jvectormap-zoomin">+</div>
+                                        <div class="jvectormap-zoomout">-</div>
+
                                             <!-- aqui va los datos svg -->
                                             <svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;"
                                                 xmlns:graph="&ns_graphs;" xmlns="http://www.w3.org/2000/svg"
