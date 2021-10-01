@@ -17,36 +17,36 @@
           <div class="row">
             <div class="col-md-6">
             <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-4 control-label">Primer Nombre</label>
+                  <label for="primerNombreCliente" class="col-sm-4 control-label">Primer Nombre</label>
 
                   <div class="col-sm-8">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Introduzca su primer nombre">
+                    <input type="text" class="form-control" id="primerNombreCliente" placeholder="Introduzca su primer nombre">
                   </div>
                 </div>
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-4 control-label">Apellido Paterno</label>
+                  <label for="apellidoPaternoCliente" class="col-sm-4 control-label">Apellido Paterno</label>
 
                   <div class="col-sm-8">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Introduzca su apellido paterno">
+                    <input type="text" class="form-control" id="apellidoPaternoCliente" placeholder="Introduzca su apellido paterno">
                   </div>
                 </div>
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-4 control-label">C.I.</label>
+                  <label for="ciCliente" class="col-sm-4 control-label">C.I.</label>
 
                   <div class="col-sm-8">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Introduzca su c.i.">
+                    <input type="text" class="form-control" id="ciCliente" placeholder="Introduzca su c.i.">
                   </div>
                 </div>
                 <br><br>
                 <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-4 control-label">Teléfono</label>
+                  <label for="telefonoCliente" class="col-sm-4 control-label">Teléfono</label>
 
                   <div class="col-sm-8">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Introduzca su teléfono">
+                    <input type="text" class="form-control" id="telefonoCliente" placeholder="Introduzca su teléfono">
                   </div>
                 </div>
               <!-- /.form-group -->
@@ -55,36 +55,36 @@
 
             <div class="col-md-6">
             <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-4 control-label">Segundo Nombre</label>
+                  <label for="segundoNombreCliente" class="col-sm-4 control-label">Segundo Nombre</label>
 
                   <div class="col-sm-8">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Introduzca su segundo nombre">
+                    <input type="text" class="form-control" id="segundoNombreCliente" placeholder="Introduzca su segundo nombre">
                   </div>
                 </div>
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-4 control-label">Apellido Materno</label>
+                  <label for="apellidoMaternoCliente" class="col-sm-4 control-label">Apellido Materno</label>
 
                   <div class="col-sm-8">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Introduzca su apellido materno">
+                    <input type="text" class="form-control" id="apellidoMaternoCliente" placeholder="Introduzca su apellido materno">
                   </div>
                 </div>
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-4 control-label">Dirección</label>
+                  <label for="direccionCliente" class="col-sm-4 control-label">Dirección</label>
 
                   <div class="col-sm-8">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Introduzca su direción">
+                    <input type="text" class="form-control" id="direccionCliente" placeholder="Introduzca su direción">
                   </div>
                 </div>
                 <br><br>
                 <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-4 control-label">Correo Electrónico</label>
+                  <label for="correoCliente" class="col-sm-4 control-label">Correo Electrónico</label>
 
                   <div class="col-sm-8">
-                    <input type="email" class="form-control" id="inputEmail3" placeholder="Introduzca su correo electrónico">
+                    <input type="email" class="form-control" id="correoCliente" placeholder="Introduzca su correo electrónico">
                   </div>
                 </div>
               <!-- /.form-group -->

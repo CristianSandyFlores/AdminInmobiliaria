@@ -4,7 +4,7 @@
         <section class="content-header">
                   <!-- Small boxes (Stat box) -->
                   <!-- Main row -->
-                  <div class="row">
+              <div class="row">
               <!-- right col (We are only adding the ID to make the widgets sortable)-->
               <section class="col-lg-12 connectedSortable">
 

@@ -18,27 +18,27 @@
           <div class="row">
             <div class="col-md-6">
             <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-2 control-label">Cliente</label>
+                  <label for="cliente" class="col-sm-2 control-label">Cliente</label>
 
                   <div class="col-sm-10">
-                    <input type="email" class="form-control" id="inputEmail3" placeholder="Cliente">
+                    <input type="email" class="form-control" id="cliente" placeholder="Cliente">
                   </div>
                 </div>
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-2 control-label">Fecha Pago</label>
+                  <label for="fechaPago" class="col-sm-2 control-label">Fecha Pago</label>
                   <div class="col-sm-10">
-                    <input type="text" class="form-control" data-inputmask="'alias': 'dd/mm/yyyy'" data-mask>
+                    <input type="text" class="form-control" id="fechaPago" data-inputmask="'alias': 'dd/mm/yyyy'" data-mask>
                   </div>
                 </div>
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-2 control-label">Lote</label>
+                  <label for="lote" class="col-sm-2 control-label">Lote</label>
 
                   <div class="col-sm-10">
-                    <input type="email" class="form-control" id="inputEmail3" placeholder="Lote">
+                    <input type="email" class="form-control" id="lote" placeholder="Lote">
                   </div>
                 </div>
               <!-- /.form-group -->
@@ -47,19 +47,19 @@
 
             <div class="col-md-6">
             <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-2 control-label">Método Pago</label>
+                  <label for="metodoPago" class="col-sm-2 control-label">Método Pago</label>
 
                   <div class="col-sm-10">
-                    <input type="email" class="form-control" id="inputEmail3" placeholder="Método Pago">
+                    <input type="email" class="form-control" id="metodoPago" placeholder="Método Pago">
                   </div>
                 </div>
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
-                  <label for="inputEmail3" class="col-sm-2 control-label">N° Cuotas</label>
+                  <label for="cuotas" class="col-sm-2 control-label">N° Cuotas</label>
 
                   <div class="col-sm-10">
-                    <input type="email" class="form-control" id="inputEmail3" placeholder="N° Cuotas">
+                    <input type="email" class="form-control" id="cuotas" placeholder="N° Cuotas">
                   </div>
                 </div>
                 <br><br>
