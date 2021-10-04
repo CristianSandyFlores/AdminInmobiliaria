@@ -115,7 +115,7 @@
               </div>
               </div>
               <button type="button" class="btn btn-block btn-primary btn-xs col-sm-2" style="width:80px;height:30px;margin-right: 5px;">Guardar</button>
-              <button type="button" class="btn btn-block btn-warning btn-xs" style="width:80px;height:30px;">Cancelar</button>
+              <a href="javascript:history.back()"><button type="button" class="btn btn-block btn-warning btn-xs" style="width:80px;height:30px;">Cancelar</button></a>
             </div>
       </div>
       <!-- /.box -->

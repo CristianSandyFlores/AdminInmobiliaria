@@ -92,7 +92,7 @@
             <div class="col-md-6">
                 <div class="form-group">
                 <button type="button" class="btn btn-block btn-primary btn-xs col-sm-2" style="width:80px;height:30px;margin-right: 5px;">Guardar</button>
-                <a href="lotes"><button type="button" class="btn btn-block btn-warning btn-xs" style="width:80px;height:30px;margin-right: 5px;">Cancelar</button></a>
+                <a href="javascript:history.back()"><button type="button" class="btn btn-block btn-warning btn-xs" style="width:80px;height:30px;margin-right: 5px;">Cancelar</button></a>
                 </div>
             </div>
             <!-- /.col -->

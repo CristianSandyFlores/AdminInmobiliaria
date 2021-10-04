@@ -49,7 +49,8 @@
           </a>
           <ul class="treeview-menu">
             <li><a href="usuarios"><i class="fa fa-circle-o"></i> Agentes</a></li>
-            <li><a href="pages/UI/buttons.html"><i class="fa fa-circle-o"></i> Administradores</a></li>
+            <li><a href="administradores"><i class="fa fa-circle-o"></i> Administradores</a></li>
+            <li><a href="clientes"><i class="fa fa-circle-o"></i> Clientes</a></li>
           </ul>
         </li>
         <li class="treeview">

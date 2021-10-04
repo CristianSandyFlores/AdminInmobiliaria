@@ -28,6 +28,8 @@ Route::view('/registroCotizacion', 'registroCotizacion');
 Route::view('/registroCliente', 'registroCliente');
 Route::view('/usuarios', 'usuarios');
 Route::view('/registrarUsuario', 'registrarUsuario');
+Route::view('/administradores', 'administradores');
+Route::view('/clientes', 'clientes');
 
 
 
