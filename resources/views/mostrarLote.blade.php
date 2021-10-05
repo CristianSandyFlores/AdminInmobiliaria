@@ -100,11 +100,11 @@
                                         </div>
                                         <div class="box-body jvectormap-container" id="mapaDiv">
                 
-                                        <div class="jvectormap-zoomin">+</div>
-                                        <div class="jvectormap-zoomout">-</div>
+                                        <div class="jvectormap-zoomin" onclick="zoomin()">+</div>
+                                        <div class="jvectormap-zoomout" onclick="zoomout()">-</div>
 
                                             <!-- aqui va los datos svg -->
-                                            <svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;"
+                                            <svg id="map" version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;"
                                                 xmlns:graph="&ns_graphs;" xmlns="http://www.w3.org/2000/svg"
                                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                                 viewBox="0 0 1856.6 1141.7" xml:space="preserve">

@@ -6,6 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>TuHogar365</title>
   <link rel="shortcut icon" href="{{ asset('frontend') }}/dist/img/icono.png">
+  <script type="text/javascript" src="https://cdn.rawgit.com/asvd/dragscroll/master/dragscroll.js"></script>
+
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -300,6 +302,7 @@
 <script src="{{ asset('frontend') }}/plugins/input-mask/jquery.inputmask.extensions.js"></script>
 <!-- Select2 -->
 <script src="{{ asset('frontend') }}/bower_components/select2/dist/js/select2.full.min.js"></script>
+<script src="{{ asset('frontend') }}/dist/js/minmax.js"></script>
 <script>
   $(function () {
     //Initialize Select2 Elements
