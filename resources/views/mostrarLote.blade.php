@@ -2,7 +2,7 @@
 @section('content')
     <div class="content-wrapper">
         <section class="content-header">
-            {{-- sd --}}
+            
             <!-- Small boxes (Stat box) -->
             <div class="row">
                 <div class="col-lg-4 ">
