@@ -52,7 +52,7 @@
                     <!-- small box -->
                     <div class="small-box bg-yellow">
 
-                        <a href="#" class="small-box-footer">atras <i class="fa fa-arrow-circle-right"></i></a>
+                        <a href="javascript:history.back()" class="small-box-footer">atras <i class="fa fa-arrow-circle-left"></i></a>
                     </div>
                 </div>
 
