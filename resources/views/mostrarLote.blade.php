@@ -93,7 +93,7 @@
                                         </div>
                                         
                                         <div class="box-body jvectormap-container" id="mapaDiv">
-                
+                {{-- Hola mundo --}}
                                         <div class="btn btn-warning" onclick="zoomin()">+</div>
                                         <div class="btn btn-warning" onclick="zoomout()">-</div>
 
