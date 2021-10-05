@@ -30,6 +30,8 @@ Route::view('/usuarios', 'usuarios');
 Route::view('/registrarUsuario', 'registrarUsuario');
 Route::view('/administradores', 'administradores');
 Route::view('/clientes', 'clientes');
+Route::view('/ventas', 'ventas');
+Route::view('/registrarVenta', 'registrarVenta');
 
 
 

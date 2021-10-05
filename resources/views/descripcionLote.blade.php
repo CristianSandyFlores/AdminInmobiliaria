@@ -107,7 +107,7 @@
                     <i class="fa fa-map-marker"></i>
 
                     <h3 class="box-title">
-                      Lote 5
+                      Lote 4
                     </h3>
                   </div>
                   <div class="box-body">

@@ -33,11 +33,19 @@
             <li><a href="pages/charts/flot.html"><i class="fa fa-circle-o"></i> Condominios</a></li>
           </ul>
         </li>
-        <li>
-          <a href="cotizaciones">
-            <i class="fa fa-laptop"></i>
-            <span>Cotizaciones</span>
+        <li class="treeview">
+          <a href="#">
+            <i class="fa fa-clone"></i>
+            <span>Movimientos</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
           </a>
+          <ul class="treeview-menu">
+            <li><a href="cotizaciones"><i class="fa fa-circle-o"></i> Cotizaciones</a></li>
+            <li><a href="ventas"><i class="fa fa-circle-o"></i> Ventas</a></li>
+            <li><a href="reservas"><i class="fa fa-circle-o"></i> Reservas</a></li>
+          </ul>
         </li>
         <li class="treeview">
           <a href="#">
