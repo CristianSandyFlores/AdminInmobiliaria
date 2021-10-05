@@ -83,7 +83,7 @@
                                     </p>
 
                                     <!-- Map box -->
-                                    <div class="box box-solid bg-light-blue-gradient">
+                                    <div class="main dragscroll bg-light-blue-gradient">
                                         <div class="box-header">
                                             <!-- tools box -->
                                             <div class="pull-right box-tools">
@@ -98,10 +98,11 @@
                                                 Plano de Lotes
                                             </h3>
                                         </div>
+                                        
                                         <div class="box-body jvectormap-container" id="mapaDiv">
                 
-                                        <div class="jvectormap-zoomin" onclick="zoomin()">+</div>
-                                        <div class="jvectormap-zoomout" onclick="zoomout()">-</div>
+                                        <div class="btn btn-warning" onclick="zoomin()">+</div>
+                                        <div class="btn btn-warning" onclick="zoomout()">-</div>
 
                                             <!-- aqui va los datos svg -->
                                             <svg id="map" version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;"
@@ -465,11 +466,7 @@
                                             <!-- aqui va los datos svg -->
                                         </div>
                                         <!-- /.box-body-->
-                                        <div class="box-footer no-border">
-                                            <div class="row">
-                                            </div>
-                                            <!-- /.row -->
-                                        </div>
+                                       
                                     </div>
                                     <!-- /.box -->
                                     <!-- /.chart-responsive -->
