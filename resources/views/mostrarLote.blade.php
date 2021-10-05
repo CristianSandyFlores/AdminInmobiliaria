@@ -77,43 +77,25 @@
                         <!-- /.box-header -->
                         <div class="box-body">
                             <div class="row">
-                                <div class="col-md-8" >
+                                <div class="col-md-8">
                                     <p class="text-center">
                                         <strong>Distribución de lotes</strong>
-                                       
                                     </p>
-                                   <div style="background:#61a4cb"> 
-                                    <div class="box-header">
-                                        <!-- tools box -->
-                                        
-                                        
-                                        <!-- /. tools -->
-                                        <i class="fa fa-map-marker"></i>
-                                        <h3 class="box-title">
-                                            Plano de Lotes
-                                        </h3>
-                                        <div class="pull-right">
-                                        <div class="btn btn-warning" onclick="zoomin()">+</div>
-                                        <div class="btn btn-warning" onclick="zoomout()">-</div>
-                                    </div>
-                                    </div>
-                                        
+
                                     <!-- Map box -->
                                     <div class="main dragscroll bg-light-blue-gradient">
-<<<<<<< Updated upstream
-                                        
-=======
                                         <div class="box-header">
-
                                             <i class="fa fa-map-marker"></i>
                                             <h3 class="box-title">
                                                 Plano de Lotes
                                             </h3>
                                         </div>
->>>>>>> Stashed changes
                                         
                                         <div class="box-body jvectormap-container" id="mapaDiv">
                 
+                                        <div class="btn btn-warning" onclick="zoomin()">+</div>
+                                        <div class="btn btn-warning" onclick="zoomout()">-</div>
+
                                             <!-- aqui va los datos svg -->
                                             <svg id="map" version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;"
                                                 xmlns:graph="&ns_graphs;" xmlns="http://www.w3.org/2000/svg"
@@ -475,7 +457,6 @@
                                             </svg>
                                             <!-- aqui va los datos svg -->
                                         </div>
-                                    </div>
                                         <!-- /.box-body-->
                                        
                                     </div>
