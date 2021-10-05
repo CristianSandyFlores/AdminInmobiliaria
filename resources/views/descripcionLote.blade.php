@@ -86,20 +86,24 @@
                     it with the necessary regelialia. It is a paradisematic
                     country, in which roasted parts of sentences fly into
                     your mouth.</p>
-
-                <a href="registroCotizacion"><button type="button" class="btn btn-block btn-primary btn-xs col-sm-2"
-                        style="width:310px;height:30px;margin-right: 5px;">Cotizar</button></a>
+            <div class="col-lg-12 col-xs-12">
+                <a href="registroCotizacion">
+                  <button type="button" class="btn btn-block btn-primary "
+                        >Cotizar</button></a>
                 <br><br>
                 <hr>
-                <a href="registroCliente">
+                <a class="btn btn-block" href="registroCliente">
                     <h5>Registrar cliente para realizar las siguientes acciones<i class="fa fa-fw fa-plus-square"></i></h5>
                 </a>
                 <br>
-                <a href="registroCotizacion"><button type="button" class="btn btn-block btn-success btn-xs col-sm-2"
-                        style="width:310px;height:30px;margin-right: 5px;">Reservar</button></a>
+                <a href="registroCotizacion">
+                  <button type="button" class="btn btn-block btn-success "
+                        >Reserva</button></a>
                 <br><br>
-                <a href="registroCotizacion"><button type="button" class="btn btn-block btn-info btn-xs col-sm-2"
-                        style="width:310px;height:30px;margin-right: 5px;">Comprar</button></a>
+                <a href="registroCotizacion">
+                  <button type="button" class="btn btn-block btn-info "
+                        >Venta</button></a>
+            </div>
             </div>
             <div class="col-md-8">
                 <p class="text-center">
@@ -110,7 +114,7 @@
                 <div class="box box-solid bg-light-blue-gradient">
                     <div class="box-header">
                         <!-- tools box -->
-                       
+
                         <!-- /. tools -->
 
                         <i class="fa fa-map-marker"></i>

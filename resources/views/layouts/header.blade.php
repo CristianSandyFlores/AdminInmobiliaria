@@ -20,111 +20,35 @@
       <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
           <!-- Messages: style can be found in dropdown.less-->
-          <li class="dropdown messages-menu">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <i class="fa fa-envelope-o"></i>
-              <span class="label label-success">4</span>
-            </a>
-            <ul class="dropdown-menu">
-              <li class="header">Tienes 4 mensajes nuevos</li>
-              <li>
-                <!-- inner menu: contains the actual data -->
-                <ul class="menu">
-                  <li><!-- start message -->
-                    <a href="#">
-                      <div class="pull-left">
-                        <img src="{{ asset('frontend') }}/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
-                      </div>
-                      <h4>
-                        Soporte
-                        <small><i class="fa fa-clock-o"></i> 5 mins</small>
-                      </h4>
-                      <p>Algún problemas más?</p>
-                    </a>
-                  </li>
-                  <!-- end message -->
-                  <li>
-                    <a href="#">
-                      <div class="pull-left">
-                        <img src="{{ asset('frontend') }}/dist/img/user3-128x128.jpg" class="img-circle" alt="User Image">
-                      </div>
-                      <h4>
-                        Administrador
-                        <small><i class="fa fa-clock-o"></i> 2 horas</small>
-                      </h4>
-                      <p>Reunión a las 5 de la tarde</p>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <div class="pull-left">
-                        <img src="{{ asset('frontend') }}/dist/img/user4-128x128.jpg" class="img-circle" alt="User Image">
-                      </div>
-                      <h4>
-                        Desarrolladores
-                        <small><i class="fa fa-clock-o"></i> Hoy</small>
-                      </h4>
-                      <p>Pronto nueva actualización</p>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <div class="pull-left">
-                        <img src="{{ asset('frontend') }}/dist/img/user3-128x128.jpg" class="img-circle" alt="User Image">
-                      </div>
-                      <h4>
-                        Ventas
-                        <small><i class="fa fa-clock-o"></i> Ayer</small>
-                      </h4>
-                      <p>Ganamos!</p>
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li class="footer"><a href="#">Ver todos los mensajes</a></li>
-            </ul>
-          </li>
+       
           <!-- Notifications: style can be found in dropdown.less -->
-          <li class="dropdown notifications-menu">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <i class="fa fa-bell-o"></i>
-              <span class="label label-warning">10</span>
+          <li class=" notifications-menu">
+            <a href="https://api.whatsapp.com/send?phone=59177490451&app=facebook&entry_point=page_cta&fbclid=IwAR3mNsYxkZmAtKWUjM6k5_bNaUM6dO5PsG-aK_BrzFFNpOnHnmp23Cr4o68" class="-toggle" data-toggle="">
+             <i class="fa fa-whatsapp"></i>  {{--sad --}}
+              
             </a>
-            <ul class="dropdown-menu">
-              <li class="header">Tienes 10 notificaciones nuevas</li>
-              <li>
-                <!-- inner menu: contains the actual data -->
-                <ul class="menu">
-                  <li>
-                    <a href="#">
-                      <i class="fa fa-users text-aqua"></i> 5 miembros nuevos se unieron
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="fa fa-warning text-yellow"></i> Very long description here that may not fit into the
-                      page and may cause design problems
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="fa fa-users text-red"></i> 5 nuevos miembros se unieron
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="fa fa-shopping-cart text-green"></i> 25 ventas realizadas
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="fa fa-user text-red"></i> Has cambiado tu nombre de usuario
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li class="footer"><a href="#">Ver todo</a></li>
-            </ul>
+            
+          </li>
+          <li class=" notifications-menu">
+            <a href="https://www.instagram.com/tuhogar365/" class="-toggle" data-toggle="">
+             <i class="fa fa-instagram"></i>  {{--sad --}}
+              
+            </a>
+            
+          </li>
+          <li class=" notifications-menu">
+            <a href="https://www.facebook.com/tuhogar365dias" class="-toggle" data-toggle="">
+             <i class="fa fa-facebook"></i>  {{--sad --}}
+              
+            </a>
+         
+          </li>
+          <li class=" notifications-menu">
+            <a href="https://goo.gl/maps/UWCaZ8vsnK4QGMjJ6" class="-toggle" data-toggle="">
+             <i class="fa fa-map-marker"></i>  {{--sad --}}
+              
+            </a>
+            
           </li>
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
@@ -169,9 +93,7 @@
             </ul>
           </li>
           <!-- Control Sidebar Toggle Button -->
-          <li>
-            <a href="#" data-toggle="control-sidebar"><i class="fa fa-gears"></i></a>
-          </li>
+          
         </ul>
       </div>
     </nav>

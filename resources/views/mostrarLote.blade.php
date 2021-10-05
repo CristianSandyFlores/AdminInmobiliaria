@@ -4,7 +4,7 @@
         <section class="content-header">
             <!-- Small boxes (Stat box) -->
             <div class="row">
-                <div class="col-lg-4 ">
+                <div class="col-lg-4 container">
                     <!-- small box -->
                     <div class="small-box bg-green">
                         <div class="inner">
@@ -52,7 +52,7 @@
                     <!-- small box -->
                     <div class="small-box bg-yellow">
 
-                        <a href="#" class="small-box-footer">Más info <i class="fa fa-arrow-circle-right"></i></a>
+                        <a href="#" class="small-box-footer">atras <i class="fa fa-arrow-circle-right"></i></a>
                     </div>
                 </div>
 
