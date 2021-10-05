@@ -100,7 +100,17 @@
                                         
                                     <!-- Map box -->
                                     <div class="main dragscroll bg-light-blue-gradient">
+<<<<<<< Updated upstream
                                         
+=======
+                                        <div class="box-header">
+
+                                            <i class="fa fa-map-marker"></i>
+                                            <h3 class="box-title">
+                                                Plano de Lotes
+                                            </h3>
+                                        </div>
+>>>>>>> Stashed changes
                                         
                                         <div class="box-body jvectormap-container" id="mapaDiv">
                 
