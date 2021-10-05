@@ -62,6 +62,13 @@
                         </a>
                     </div>
             </div>
+            <div class="col-lg-12 col-xs-12">
+                    <!-- small box -->
+                    <div class="small-box bg-yellow">
+
+                        <a href="javascript:history.back()" class="small-box-footer">Volver <i class="fa fa-arrow-circle-left"></i></a>
+                    </div>
+                </div>
 
         </section>
         <!-- right col -->

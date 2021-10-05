@@ -121,15 +121,6 @@
               <div class="form-group">
                   <label class="col-sm-2 control-label">Total Venta: </label>
                   <label style="font-weight:normal">15297.63</label>
-                <div>
-                  <label class="col-sm-2 control-label">Depósito:</label>
-                  <div class="col-sm-2">
-                  <select class="form-control">
-                    <option>Caja</option>
-                    <option>Nose</option>
-                  </select>
-                  </div>
-                </div>
               </div>
               <button type="button" class="btn btn-block btn-primary btn-xs col-sm-2" style="width:80px;height:30px;margin-right: 5px;">Guardar</button>
               <a href="javascript:history.back()"><button type="button" class="btn btn-block btn-warning btn-xs" style="width:80px;height:30px;">Cancelar</button></a>
