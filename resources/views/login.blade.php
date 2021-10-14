@@ -59,11 +59,24 @@
           <button type="submit" class="btn  btn-block btn-flat" id="buttonColor">Ingresar</button>
         </div>
         <!-- /.col -->
-      </div>
+      </div>       
+          <!-- Notifications: style can be found in dropdown.less -->
+            <a href="https://api.whatsapp.com/send?phone=59177490451&app=facebook&entry_point=page_cta&fbclid=IwAR3mNsYxkZmAtKWUjM6k5_bNaUM6dO5PsG-aK_BrzFFNpOnHnmp23Cr4o68" class="-toggle" data-toggle="">
+             <i class="fa fa-whatsapp"></i>  {{--sad --}}
+            </a>
+            &nbsp;
+            <a href="https://www.instagram.com/tuhogar365/" class="-toggle" data-toggle="">
+             <i class="fa fa-instagram"></i>  {{--sad --}}
+            </a>
+            &nbsp;
+            <a href="https://www.facebook.com/tuhogar365dias" class="-toggle" data-toggle="">
+             <i class="fa fa-facebook"></i>  {{--sad --}}
+            </a>
+            &nbsp;
+            <a href="https://goo.gl/maps/UWCaZ8vsnK4QGMjJ6" class="-toggle" data-toggle="">
+             <i class="fa fa-map-marker"></i>  {{--sad --}}
+            </a>
     </form>
-
-
-
   </div>
   <!-- /.login-box-body -->
 </div>

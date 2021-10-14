@@ -102,10 +102,41 @@
                 <a class="btn btn-block" href="registroCliente">
                     <h5>Registrar cliente para realizar las siguientes acciones<i class="fa fa-fw fa-plus-square"></i></h5>
                 </a>
+                <div>
                 <br>
-                <a href="registroCotizacion">
-                  <button type="button" class="btn btn-block btn-success "
-                        >Reserva</button></a>
+                <a href="#reservar" class="btn btn-success btn-block" data-toggle="modal">Reserva</a>
+                <div class="modal fade" id="reservar" tabindex="-1" role="dialog" aria-labelledby="reservarTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" style="background-color: #F39C12;" role="document">
+                        <div class="model-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="reservarLongTitle">Reservar Lote</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span></button>
+                            </div>
+
+                            <div class="modal-body">
+                            <div class="form-group">
+                                <label for="cliente" class="col-sm-2 control-label">Cliente</label>
+                            <div>
+                                <input type="text" class="form-control" id="precio" placeholder="Cliente">
+                            </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="lote" class="col-sm-2 control-label">Lote N°</label>
+                            <div>
+                                <input type="text" class="form-control" id="lote" placeholder="Lote N°">
+                            </div>
+                            </div>
+                            </div>
+
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                <button type="button" class="btn btn-primary">Guardar Cambios</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
                 <br><br>
                 <a href="registroCotizacion">
                   <button type="button" class="btn btn-block btn-info "

@@ -50,7 +50,7 @@
         <li class="treeview">
           <a href="#">
             <i class="fa fa-laptop"></i>
-            <span>Administrar Usuarios</span>
+            <span>Gestiones</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
@@ -59,6 +59,7 @@
             <li><a href="usuarios"><i class="fa fa-circle-o"></i> Agentes</a></li>
             <li><a href="administradores"><i class="fa fa-circle-o"></i> Administradores</a></li>
             <li><a href="clientes"><i class="fa fa-circle-o"></i> Clientes</a></li>
+            <li><a href="svg"><i class="fa fa-circle-o"></i> SVG</a></li>
           </ul>
         </li>
         <li class="treeview">

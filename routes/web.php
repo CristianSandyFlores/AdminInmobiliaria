@@ -32,6 +32,11 @@ Route::view('/administradores', 'administradores');
 Route::view('/clientes', 'clientes');
 Route::view('/ventas', 'ventas');
 Route::view('/registrarVenta', 'registrarVenta');
+Route::view('/reservas', 'reservas');
+Route::view('/svg', 'svg');
+Route::view('/registrarSvg', 'registrarSvg');
+Route::view('/administrarSvg', 'administrarSvg');
+Route::get('/ventas/imprimir, VentasController@imprimir');
 
 
 
