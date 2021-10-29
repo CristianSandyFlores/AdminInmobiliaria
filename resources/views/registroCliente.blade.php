@@ -26,35 +26,6 @@
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
-                  <label for="apellidoPaternoCliente" class="col-sm-4 control-label">Apellido Paterno</label>
-
-                  <div class="col-sm-8">
-                    <input type="text" class="form-control" id="apellidoPaternoCliente" placeholder="Introduzca su apellido paterno">
-                  </div>
-                </div>
-                <br><br>
-              <!-- /.form-group -->
-              <div class="form-group">
-                  <label for="ciCliente" class="col-sm-4 control-label">C.I.</label>
-
-                  <div class="col-sm-8">
-                    <input type="text" class="form-control" id="ciCliente" placeholder="Introduzca su c.i.">
-                  </div>
-                </div>
-                <br><br>
-                <div class="form-group">
-                  <label for="telefonoCliente" class="col-sm-4 control-label">Teléfono</label>
-
-                  <div class="col-sm-8">
-                    <input type="text" class="form-control" id="telefonoCliente" placeholder="Introduzca su teléfono">
-                  </div>
-                </div>
-              <!-- /.form-group -->
-            </div>
-            <!-- /.col -->
-
-            <div class="col-md-6">
-            <div class="form-group">
                   <label for="segundoNombreCliente" class="col-sm-4 control-label">Segundo Nombre</label>
 
                   <div class="col-sm-8">
@@ -64,10 +35,39 @@
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
+                  <label for="apellidoPaternoCliente" class="col-sm-4 control-label">Apellido Paterno</label>
+
+                  <div class="col-sm-8">
+                    <input type="text" class="form-control" id="apellidoPaternoCliente" placeholder="Introduzca su apellido paterno">
+                  </div>
+                </div>
+                <br><br>
+                <div class="form-group">
                   <label for="apellidoMaternoCliente" class="col-sm-4 control-label">Apellido Materno</label>
 
                   <div class="col-sm-8">
                     <input type="text" class="form-control" id="apellidoMaternoCliente" placeholder="Introduzca su apellido materno">
+                  </div>
+                </div>
+              <!-- /.form-group -->
+            </div>
+            <!-- /.col -->
+
+            <div class="col-md-6">
+            <div class="form-group">
+                  <label for="ciCliente" class="col-sm-4 control-label">C.I.</label>
+
+                  <div class="col-sm-8">
+                    <input type="text" class="form-control" id="ciCliente" placeholder="Introduzca su c.i.">
+                  </div>
+                </div>
+                <br><br>
+              <!-- /.form-group -->
+              <div class="form-group">
+                  <label for="telefonoCliente" class="col-sm-4 control-label">Teléfono</label>
+
+                  <div class="col-sm-8">
+                    <input type="text" class="form-control" id="telefonoCliente" placeholder="Introduzca su telefono">
                   </div>
                 </div>
                 <br><br>

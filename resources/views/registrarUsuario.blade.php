@@ -26,6 +26,15 @@
                 <br><br>
               <!-- /.form-group -->
               <div class="form-group">
+                  <label for="segundoNombre" class="col-sm-4 control-label">Segundo Nombre</label>
+
+                  <div class="col-sm-8">
+                    <input type="text" class="form-control" id="segundoNombre" placeholder="Introduzca su segundo nombre">
+                  </div>
+                </div>
+                <br><br>
+              <!-- /.form-group -->
+              <div class="form-group">
                   <label for="apellidoPaterno" class="col-sm-4 control-label">Apellido Paterno</label>
 
                   <div class="col-sm-8">
@@ -33,8 +42,15 @@
                   </div>
                 </div>
                 <br><br>
-              <!-- /.form-group -->
-              <div class="form-group">
+                <div class="form-group">
+                  <label for="apellidoMaterno" class="col-sm-4 control-label">Apellido Materno</label>
+
+                  <div class="col-sm-8">
+                    <input type="text" class="form-control" id="apellidoMaterno" placeholder="Introduzca su apellido materno">
+                  </div>
+                </div>
+                <br><br>
+                <div class="form-group">
                   <label for="ci" class="col-sm-4 control-label">C.I.</label>
 
                   <div class="col-sm-8">
@@ -51,6 +67,24 @@
                 </div>
                 <br><br>
                 <div class="form-group">
+                  <label for="direccion" class="col-sm-4 control-label">Dirección</label>
+                  <div class="col-sm-8">
+                    <input type="text" class="form-control" id="direccion" placeholder="Introduzca su direción">
+                  </div>
+                </div>
+              <!-- /.form-group -->
+            </div>
+            <!-- /.col -->
+            
+            <div class="col-md-6">
+            <div class="form-group">
+                  <label for="correo" class="col-sm-4 control-label">Correo Electrónico</label>
+                  <div class="col-sm-8">
+                    <input type="email" class="form-control" id="correo" placeholder="Introduzca su correo electrónico">
+                  </div>
+                </div>
+                <br><br>
+                <div class="form-group">
                   <label for="usuario" class="col-sm-4 control-label">Usuario</label>
 
                   <div class="col-sm-8">
@@ -58,11 +92,21 @@
                   </div>
                 </div>
                 <br><br>
-                <div class="form-group">
+              <!-- /.form-group -->
+              <div class="form-group">
                   <label for="contraseña" class="col-sm-4 control-label">Contraseña</label>
 
                   <div class="col-sm-8">
                     <input type="password" class="form-control" id="contraseña" placeholder="Introduzca su contraseña">
+                  </div>
+                </div>
+                <br><br>
+              <!-- /.form-group -->
+              <div class="form-group">
+                  <label for="repetirContraseña" class="col-sm-4 control-label">Repetir Contraseña</label>
+
+                  <div class="col-sm-8">
+                    <input type="password" class="form-control" id="repetirContraseña" placeholder="Repita su contraseña">
                   </div>
                 </div>
                 <br><br>
@@ -71,44 +115,6 @@
 
                   <div class="col-sm-8">
                     <input type="file" class="form-control" id="fotografia" placeholder="Subir fotografía">
-                  </div>
-                </div>
-              <!-- /.form-group -->
-            </div>
-            <!-- /.col -->
-
-            <div class="col-md-6">
-            <div class="form-group">
-                  <label for="segundoNombre" class="col-sm-4 control-label">Segundo Nombre</label>
-
-                  <div class="col-sm-8">
-                    <input type="text" class="form-control" id="segundoNombre" placeholder="Introduzca su segundo nombre">
-                  </div>
-                </div>
-                <br><br>
-              <!-- /.form-group -->
-              <div class="form-group">
-                  <label for="apellidoMaterno" class="col-sm-4 control-label">Apellido Materno</label>
-
-                  <div class="col-sm-8">
-                    <input type="text" class="form-control" id="apellidoMaterno" placeholder="Introduzca su apellido materno">
-                  </div>
-                </div>
-                <br><br>
-              <!-- /.form-group -->
-              <div class="form-group">
-                  <label for="direccion" class="col-sm-4 control-label">Dirección</label>
-
-                  <div class="col-sm-8">
-                    <input type="text" class="form-control" id="direccion" placeholder="Introduzca su direción">
-                  </div>
-                </div>
-                <br><br>
-                <div class="form-group">
-                  <label for="correo" class="col-sm-4 control-label">Correo Electrónico</label>
-
-                  <div class="col-sm-8">
-                    <input type="email" class="form-control" id="correo" placeholder="Introduzca su correo electrónico">
                   </div>
                 </div>
                 <br><br>
@@ -124,13 +130,6 @@
                   </div>
                 </div>
                 <br><br>
-                <div class="form-group">
-                  <label for="repetirContraseña" class="col-sm-4 control-label">Repetir Contraseña</label>
-
-                  <div class="col-sm-8">
-                    <input type="password" class="form-control" id="repetirContraseña" placeholder="Repita su contraseña">
-                  </div>
-                </div>
               <!-- /.form-group -->
             </div>
             <!-- /.col -->
